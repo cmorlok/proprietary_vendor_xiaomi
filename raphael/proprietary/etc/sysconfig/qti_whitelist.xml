@@ -34,7 +34,7 @@
     <!-- These are telephony components that need to freely run in the background -->
     <allow-in-power-save package="com.qualcomm.atfwd" />
     <allow-in-power-save package="com.qualcomm.qti.telephonyservice" />
-    <allow-in-power-save package="com.qulacomm.qcrilmsgtunnel" />
+<!--    <allow-in-power-save package="com.qulacomm.qcrilmsgtunnel" /> -->
     <allow-in-power-save package="com.qualcomm.qti.ims" />
     <allow-in-power-save package="com.qualcomm.qti.radioconfiginterface" />
     <allow-in-power-save package="com.qualcomm.simcontacts" />
@@ -70,7 +70,7 @@
     <hidden-api-whitelisted-app package="org.codeaurora.ims" />
     <hidden-api-whitelisted-app package="com.qualcomm.qti.ims" />
     <hidden-api-whitelisted-app package="com.qti.xdivert" />
-    <hidden-api-whitelisted-app package="com.qualcomm.qcrilmsgtunnel" />
+<!--    <hidden-api-whitelisted-app package="com.qualcomm.qcrilmsgtunnel" /> -->
     <hidden-api-whitelisted-app package="com.qti.confuridialer" />
     <hidden-api-whitelisted-app package="com.qti.editnumber" />
     <hidden-api-whitelisted-app package="com.qualcomm.embmstest" />
